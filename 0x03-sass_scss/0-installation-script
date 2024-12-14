@@ -1,0 +1,14 @@
+1. Navigate to the repository:
+   cd alx-intermediate-frontend
+
+2. Create a new directory:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+3. Install Node.js (optional):
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   exit
+   nvm install 20.16
+
+4. Install Sass:
+   npm install sass@3.7.4
